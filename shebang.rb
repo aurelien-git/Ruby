@@ -13,6 +13,8 @@
 # irb --simple-prompt
 # as direct prompt
 
+# Get time to find something like:
+
 # using gcc -std=c11 -Wall -g -o a a.c
 
 # to improve security level use pedantic option:
