@@ -49,7 +49,7 @@ class MegaGreeter
       puts "..."
     elsif @names.respond_to?("join")
       # Groups differents name of the list separated by comon
-      puts "Goodbye #{@naems.join(",")}. Come back soon!"
+      puts "Goodbye #{@names.join(",")}. Come back soon!"
     else
       puts "Goodbye #{@names}.  Come back soon!"
     end
